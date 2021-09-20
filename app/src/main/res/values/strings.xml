@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MonitorGeofences</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="save">SAVE</string>
+</resources>
